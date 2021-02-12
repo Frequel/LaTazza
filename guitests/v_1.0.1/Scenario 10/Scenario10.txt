@@ -1,0 +1,9 @@
+
+Click "{ImageFolder}/1558632354175.png" 32 22
+Click "{ImageFolder}/1558632380411.png" 37 35
+Click "{ImageFolder}/1558632761256.png" 53 67
+
+Type "nunzio"
+Click "{ImageFolder}/1558632414890.png" 56 67
+Type "angione"
+Click "{ImageFolder}/1558632414890.png" 40 83

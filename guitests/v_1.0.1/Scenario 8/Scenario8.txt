@@ -1,0 +1,12 @@
+Click "{ImageFolder}/1558631251826.png" 26 28
+Click "{ImageFolder}/1558631276184.png" 41 42
+Click "{ImageFolder}/1558631299757.png" 48 64
+Type "fanta"
+
+
+Click "{ImageFolder}/1558631299757.png" 49 74
+Type "100"
+Click "{ImageFolder}/1558631299757.png" 52 83
+
+Type "100"
+Click "{ImageFolder}/1558631405903.png" 33 66

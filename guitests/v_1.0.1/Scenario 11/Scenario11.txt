@@ -1,0 +1,6 @@
+Click "{ImageFolder}/1558632995832.png" 15 21
+Click "{ImageFolder}/1558633014620.png" 43 42
+Click "{ImageFolder}/1558633066800.png" 60 38
+DoubleClick "{ImageFolder}/1558633083066.png" 44 29
+Type "gabriele"
+Click "{ImageFolder}/1558633083066.png" 50 65

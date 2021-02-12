@@ -1,0 +1,7 @@
+image: maven:3.6.1-jdk-8-alpine
+test:
+  stage: test
+  coverage: '/(\d+\.?\d+) \% covered/'
+  script:
+    - mvn --batch-mode test
+    - awk -F "," '{ instructions += $4 + $5; covered += $5 } END { print covered, "/", instructions, "instructions covered"; print 100*covered/instructions, "% covered" }' target/site/jacoco/jacoco.csv
